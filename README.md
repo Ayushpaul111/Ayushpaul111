@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ayushpaul111@gmail.com**
 
-- 👨‍💻 My website **Ayush[https://ayushpaul.netlify.app]** 
+- 👨‍💻 My website **Ayush[https://ayushpaul.dev]** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
