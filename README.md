@@ -6,13 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpaul111&label=Views&color=096caa&style=flat-square" alt="ayushpaul111" /> </p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a **4th year CSE student**
-
-- 🌱 I’m currently learning **DevOps**
-
 - 📫 How to reach me **ayushpaul111@gmail.com**
 
-- 👨‍💻 My website **Ayush[https://ayushpaul.dev]** 
+- 👨‍💻 My website **ayushpaul.dev[https://ayushpaul.dev]** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
