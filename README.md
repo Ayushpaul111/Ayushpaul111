@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)](https://ayushpaul.netlify.app)
 <h1 align="center">Hey <img  alt="Coding" align="center" width="40" src="https://github.com/Ayushpaul111/Ayushpaul111/blob/main/output-onlinegiftools.gif"> , I'm Ayush Paul</h1>
-<h3 align="center">I am a dedicated developer proficient in Full-Stack development with React, Tailwind, and other web technologies. I have successfully collaborated with multiple clients on independent projects.</h3>
+<h3 align="center">I am a software engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://ayushpaul.netlify.app/assets/logo-a06ef209.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpaul111&label=Views&color=096caa&style=flat-square" alt="ayushpaul111" /> </p>
